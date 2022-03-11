@@ -26,4 +26,13 @@ npm run server
 
 ![cleanblog1](https://user-images.githubusercontent.com/89356076/157861696-9dca49ab-df7b-4787-9e6a-a90ae0580ff6.JPG)
 
+## Clean Blog Second Assignment
+- Public klasörü oluşturup statik dosyalarımızı içerisine yerleştirelim.
+- İlgili middleware fonksiyonunu yazarak public klasörümüzü uygulamamıza kaydedelim.
+- EJS modülünü indirelim.
+- Uygulamamızda EJS modülünü kullanacağımızı belirtelim.
+- Views klasörü oluşturalım ve tüm .html dosyalarımız views klasörü içerisinde .ejs dosyalarına çevirelim.
+- Partials klasör yapısını oluşturalım.
+- İlgili yönlendirmeleri ve _navigation.ejs klasöründeki link düzenlemelerini yapalım.
+
 
