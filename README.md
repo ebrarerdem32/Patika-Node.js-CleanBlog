@@ -22,7 +22,7 @@ npm install --save-dev nodemon
 ```
 npm run server
 ```
-### OUTPUT
+### FIRST OUTPUT 
 
 ![cleanblog1](https://user-images.githubusercontent.com/89356076/157861696-9dca49ab-df7b-4787-9e6a-a90ae0580ff6.JPG)
 
