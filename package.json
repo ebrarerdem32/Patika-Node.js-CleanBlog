@@ -1,7 +1,20 @@
 {
-  
-  "dependencies": {
-    "express": "^4.17.3",
-    "nodemon": "^2.0.15"
-  }
+  "name": "cleanblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "server": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebrarerdem32/Patika-Node.js-CleanBlog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebrarerdem32/Patika-Node.js-CleanBlog/issues"
+  },
+  "homepage": "https://github.com/ebrarerdem32/Patika-Node.js-CleanBlog#readme"
 }
