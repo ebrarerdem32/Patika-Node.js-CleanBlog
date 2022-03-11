@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ebrarerdem32/Patika-Node.js-CleanBlog/issues"
   },
-  "homepage": "https://github.com/ebrarerdem32/Patika-Node.js-CleanBlog#readme"
+  "homepage": "https://github.com/ebrarerdem32/Patika-Node.js-CleanBlog#readme",
+  "dependencies": {
+    "ejs": "^3.1.6"
+  }
 }
