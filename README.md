@@ -1,5 +1,5 @@
 # Patika-Node.js-CleanBlog
-## Clean Blog First Assignment
+## CLEAN BLOG FIRST ASSIGNMENT
 - CleanBlog proje klasörünü oluşturalım.
 - Package.json dosyasını oluşturalım.
 - Prettier ayarlarını yapalım.(İsteğe bağlı)
@@ -8,7 +8,7 @@
 - get request içerisinde const blog = { id: 1, title: "Blog title", description: "Blog description" },içeriğini gönderelim.
 - .gitignore dosyası oluşturalım ve ilk repomuzu gönderelim.
 
-### RUN
+### Run
 ```
 npm init
 ```
@@ -22,11 +22,11 @@ npm install --save-dev nodemon
 ```
 npm run server
 ```
-### FIRST OUTPUT 
+### First Output 
 
 ![cleanblog1](https://user-images.githubusercontent.com/89356076/157861696-9dca49ab-df7b-4787-9e6a-a90ae0580ff6.JPG)
 
-## Clean Blog Second Assignment
+## CLEAN BLOG SECOND ASSIGNMENT
 - Public klasörü oluşturup statik dosyalarımızı içerisine yerleştirelim.
 - İlgili middleware fonksiyonunu yazarak public klasörümüzü uygulamamıza kaydedelim.
 - EJS modülünü indirelim.
@@ -34,5 +34,10 @@ npm run server
 - Views klasörü oluşturalım ve tüm .html dosyalarımız views klasörü içerisinde .ejs dosyalarına çevirelim.
 - Partials klasör yapısını oluşturalım.
 - İlgili yönlendirmeleri ve _navigation.ejs klasöründeki link düzenlemelerini yapalım.
+
+### Install the ejs
+```
+npm i ejs
+```
 
 
