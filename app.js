@@ -8,6 +8,4 @@ app.get("/",(req,res)=>{
     res.send(blog);
 })
 
-
-
 app.listen(PORT,console.log(`listening on ${PORT}`));
