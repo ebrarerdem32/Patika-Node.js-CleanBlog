@@ -7,6 +7,6 @@ app.get("/",(req,res)=>{
     res.send(blog);
 })
 
-const PORT = 5500;
+const PORT = 3000;
 
 app.listen(PORT,console.log(`listening on ${PORT}`));

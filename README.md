@@ -1,1 +1,1 @@
-"# Patika-Node.js-CleanBlog" 
+# Patika-Node.js-CleanBlog
